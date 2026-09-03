@@ -3,7 +3,6 @@ Curso: Ciência de Dados
 Componente: Desenvolvimento de Sistema Aplicados a Dados 
 Aluna: Lúcia Camila Carvalho de Oliveira 
  
-O que vocês devem entregar hoje (Fase 1): Crie um documento de texto simples (Word ou Google Docs.) contendo: 
  
 Nome da Squad: Solar Tech  
 Escopo do Sistema: Uma breve descrição do que o sistema fará (Consumo de dados brutos de vendas, validação de integridade e exibição dos resultados). 
